@@ -25,7 +25,7 @@
       <img src="video-1.gif" width="100%" alt="Video: Claude schraubt eine Mutter auf">
       <p><sub>Vorschau im 3-fachen Zeitraffer · <a href="https://github.com/StefanRohringer/StefanRohringer/raw/main/video-1.mp4">🎥 Ganzes Video herunterladen (MP4)</a></sub></p>
       <h3>Claude schraubt: KI-Roboterarm dreht eine Mutter auf</h3>
-      <p>12.10.2026: Claude steuert den reBot und dreht eine M10-Mutter auf einen senkrechten Gewindebolzen. Die Mutter wird gegriffen und über die Stange gesetzt; am Kraftanstieg im Greifer erkennt er, dass sie aufsitzt. Dann dreht er sie mit 27 Griffen zu je 60°, also 4,5 Umdrehungen.</p>
+      <p>Claude steuert den reBot und dreht eine M10-Mutter auf einen senkrechten Gewindebolzen. Die Mutter wird gegriffen und über die Stange gesetzt; am Kraftanstieg im Greifer erkennt er, dass sie aufsitzt. Dann dreht er sie mit 27 Griffen zu je 60°, also 4,5 Umdrehungen.</p>
       <p>
         <img src="https://img.shields.io/badge/Robotik-555?style=flat-square" alt="Robotik">
         <img src="https://img.shields.io/badge/Physical%20AI-555?style=flat-square" alt="Physical AI">
