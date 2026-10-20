@@ -56,9 +56,11 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="35%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/StefanRohringer/Magnetic-Fin-Gripper/main/bilder/greifer.gif" width="280" alt="Greifer schließt sich um eine Traube und greift ein SMD-Bauteil">
+    </td>
+    <td width="65%" valign="top">
       <h3><a href="https://github.com/StefanRohringer/Magnetic-Fin-Gripper">Magnetic-Fin-Gripper</a></h3>
-      <img src="https://raw.githubusercontent.com/StefanRohringer/Magnetic-Fin-Gripper/main/bilder/greifer.gif" width="100%" alt="Greifer schließt sich um eine Traube und greift ein SMD-Bauteil">
       <p>Greiferfinger für den Seeed reBot DevArm mit weichen Fin-Ray-Lamellen und magnetischem Tastsinn: In jeder Lamelle sitzt ein Magnet, dahinter ein Magnetometer. Drückt etwas auf eine Lamelle, erkennt das System die Berührung. Mit Fingernagel-Variante für winzige SMD-Bauteile, Druckdateien, Zeichnungen und Firmware für den Raspberry Pi Pico.</p>
       <img src="https://img.shields.io/badge/3D--Druck-555?style=flat-square" alt="3D-Druck">
       <img src="https://img.shields.io/badge/Taktile%20Sensorik-555?style=flat-square" alt="Taktile Sensorik">
@@ -87,7 +89,7 @@
   </tr>
 </table>
 
-### 🔒 Sicherheit für KI-Agenten
+### 🔒 Sicherheit für KI-Agenten &nbsp;·&nbsp; 🧪 Experimente
 
 <table>
   <tr>
@@ -97,13 +99,6 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Offline-555?style=flat-square" alt="Offline">
     </td>
-  </tr>
-</table>
-
-### 🧪 Experimente
-
-<table>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/StefanRohringer/binaer-experiment">binaer-experiment</a></h3>
       <p>Kann ein LLM Programme direkt als Maschinencode schreiben? Testumgebung und Ergebnisse im Vergleich mit C.</p>
