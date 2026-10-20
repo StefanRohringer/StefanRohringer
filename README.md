@@ -22,8 +22,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="video-1.mp4"><img src="video-1.jpg" width="100%" alt="Video: Claude schraubt eine Mutter auf"></a>
-      <h3>▶️ Claude schraubt: KI-Roboterarm dreht eine Mutter auf</h3>
+      <img src="video-1.gif" width="100%" alt="Video: Claude schraubt eine Mutter auf">
+      <p><sub>Vorschau im 3-fachen Zeitraffer · <a href="https://github.com/StefanRohringer/StefanRohringer/raw/main/video-1.mp4">🎥 Ganzes Video herunterladen (MP4)</a></sub></p>
+      <h3>Claude schraubt: KI-Roboterarm dreht eine Mutter auf</h3>
       <p>12.10.2026: Claude steuert den reBot und dreht eine M10-Mutter auf einen senkrechten Gewindebolzen. Die Mutter wird gegriffen und über die Stange gesetzt; am Kraftanstieg im Greifer erkennt er, dass sie aufsitzt. Dann dreht er sie mit 27 Griffen zu je 60°, also 4,5 Umdrehungen.</p>
       <p>
         <img src="https://img.shields.io/badge/Robotik-555?style=flat-square" alt="Robotik">
@@ -33,8 +34,9 @@
       <p>Hardware: <a href="https://github.com/Seeed-Projects/reBot-DevArm">reBot DevArm von Seeed Studio</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="video-2.mp4"><img src="video-2.jpg" width="100%" alt="Video: Roboterarm legt ein Ei in den Eierkarton"></a>
-      <h3>▶️ Ganz vorsichtig: Roboterarm legt ein Ei in den Karton</h3>
+      <img src="video-2.gif" width="100%" alt="Video: Roboterarm legt ein Ei in den Eierkarton">
+      <p><sub>Vorschau im 14-fachen Zeitraffer · <a href="https://github.com/StefanRohringer/StefanRohringer/raw/main/video-2.mp4">🎥 Ganzes Video herunterladen (MP4)</a></sub></p>
+      <h3>Ganz vorsichtig: Roboterarm legt ein Ei in den Karton</h3>
       <p>Der reBot greift ein Ei von einem Ständer und legt es behutsam in einen Eierkarton.</p>
       <p>
         <img src="https://img.shields.io/badge/Robotik-555?style=flat-square" alt="Robotik">
