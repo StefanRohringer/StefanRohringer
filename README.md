@@ -52,6 +52,22 @@
 
 ## 🛠️ Projekte
 
+### 🦾 Robotik-Hardware
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/StefanRohringer/Magnetic-Fin-Gripper">Magnetic-Fin-Gripper</a></h3>
+      <img src="https://raw.githubusercontent.com/StefanRohringer/Magnetic-Fin-Gripper/main/bilder/greifer.gif" width="100%" alt="Greifer schließt sich um eine Traube und greift ein SMD-Bauteil">
+      <p>Greiferfinger für den Seeed reBot DevArm mit weichen Fin-Ray-Lamellen und magnetischem Tastsinn: In jeder Lamelle sitzt ein Magnet, dahinter ein Magnetometer. Drückt etwas auf eine Lamelle, erkennt das System die Berührung. Mit Fingernagel-Variante für winzige SMD-Bauteile, Druckdateien, Zeichnungen und Firmware für den Raspberry Pi Pico.</p>
+      <img src="https://img.shields.io/badge/3D--Druck-555?style=flat-square" alt="3D-Druck">
+      <img src="https://img.shields.io/badge/Taktile%20Sensorik-555?style=flat-square" alt="Taktile Sensorik">
+      <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython">
+      <img src="https://img.shields.io/badge/Open%20Hardware-555?style=flat-square" alt="Open Hardware">
+    </td>
+  </tr>
+</table>
+
 ### 🤖 Lokale KI-Systeme
 
 <table>
