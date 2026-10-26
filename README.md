@@ -60,9 +60,10 @@
 
 #### [Touch-Sensing Fin-Ray Gripper](https://github.com/StefanRohringer/Touch-Sensing-Fin-Ray-Gripper)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StefanRohringer/Touch-Sensing-Fin-Ray-Gripper/main/bilder/greifer.gif" width="360" alt="Greifer schließt sich um eine Traube, bis alle vier Lamellen Kontakt melden, und greift dann mit dem Fingernagel ein SMD-Bauteil">
-</p>
+<table><tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/StefanRohringer/Touch-Sensing-Fin-Ray-Gripper/main/bilder/greifer.gif" width="100%" alt="Greifer schließt sich um eine Traube, bis alle vier Lamellen Kontakt melden, und greift dann mit dem Fingernagel ein SMD-Bauteil"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/StefanRohringer/Touch-Sensing-Fin-Ray-Gripper/main/bilder/spot.gif" width="100%" alt="Kurze Demo: vier tastende Lamellen, Teil beim Schließen erkannt, Fingernagel für 0603-Bauteile, Ablegen beim Stapeln gespürt"></td>
+</tr></table>
 
 Greiferfinger mit Tastsinn für den Seeed reBot DevArm: Jeder Finger trägt zwei weiche Fin-Ray-Lamellen aus TPU, in jeder sitzt ein kleiner Magnet, dahinter ein Magnetometer (MLX90393). Alle vier Lamellen melden Kontakt einzeln, so spürt der Roboter beim Schließen, dass er das Teil hält, und beim Ablegen, dass es aufsetzt. Mit Fingernagel-Variante für winzige SMD-Bauteile (0603/0402), Druckdateien, Maßzeichnungen, Anschlussplan, interaktiver 3D-Ansicht, Firmware für den Raspberry Pi Pico und Live-Monitor für den PC.
 
