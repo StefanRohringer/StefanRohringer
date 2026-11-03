@@ -56,6 +56,21 @@
 
 ## 🛠️ Projekte
 
+### 🏭 Agentische Robotik
+
+#### [muse-qc-cell](https://github.com/StefanRohringer/muse-qc-cell)
+
+<table><tr>
+<td width="67%"><img src="https://raw.githubusercontent.com/StefanRohringer/muse-qc-cell/main/docs/media/table_scan_10_parts.png" width="100%" alt="Tischkamera: zehn Teile auf dem Tisch erkannt, jedes mit ID und Position in Millimetern, daneben die beiden Sortierkisten und der Arm"></td>
+<td width="33%"><img src="https://raw.githubusercontent.com/StefanRohringer/muse-qc-cell/main/docs/media/inspect_good_3_levers.png" width="100%" alt="Nahaufnahme der Armkamera: gehaltenes Teil, SAM 3.1 hat die drei Hebel markiert"></td>
+</tr></table>
+
+KI-Qualitätsprüfzelle für Spritzgussteile: Ein Muse-Spark-Agent steuert einen reBot Arm B601-DM, der jedes Teil vom Tisch greift. In einer Nahaufnahme zählt SAM 3.1 die Hebel, und das Teil landet in der Kiste für gute oder schlechte Teile. Den Auftrag kann man tippen oder sprechen. Echte Hardware, keine Simulation, die Sicherheitsregeln stecken im Code. Ergebnis: 10 von 10 Teilen richtig sortiert, im Dauerlauf mit Störungen 33 von 33 Zählungen richtig und nie ein schlechtes Teil in der guten Kiste. Gebaut für den Meta Global AI Developer Hackathon 2026.
+
+<a href="https://youtu.be/iBYUEyhkhq8">🎥 Demo-Video (3 Min.)</a> · <a href="https://stefanrohringer.github.io/muse-qc-cell/">▶️ Demo-Seite mit einem echten Lauf</a>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-555?style=flat-square" alt="Agentic AI"> <img src="https://img.shields.io/badge/Computer%20Vision-555?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/Qualit%C3%A4tspr%C3%BCfung-555?style=flat-square" alt="Qualitätsprüfung"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Meta%20Hackathon%202026-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Hackathon 2026">
+
 ### 🦾 Robotik-Hardware
 
 #### [Touch-Sensing Fin-Ray Gripper](https://github.com/StefanRohringer/Touch-Sensing-Fin-Ray-Gripper)
