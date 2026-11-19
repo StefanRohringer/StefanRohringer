@@ -100,6 +100,25 @@ Deterministisches (12×7)+10-Wissensnetz aus technischen Dokumenten. Kein LLM, k
 
 ### 🔒 Sicherheit für KI-Agenten
 
+#### [SealGate](https://github.com/StefanRohringer/SealGate)
+
+```
+KI-Modell  -->  SealGate  -->  echter MCP-Server
+                Not-Aus        (Dateien, E-Mail, ERP, ...)
+                signierte Regeln
+                Eingabeprüfung
+                Mengenbegrenzung
+                Freigabe durch Menschen
+                Schwärzen von Geheimnissen
+                Prüfprotokoll
+```
+
+Sicherheits-Gateway für KI-Agenten nach dem Prinzip „Das Modell schlägt vor, eine vom Menschen signierte Regel entscheidet“. SealGate sitzt zwischen Agent und echtem MCP-Server und lässt nur durch, was die Regeln erlauben. Die Regeln sind mit Ed25519 signiert, haben ein Ablaufdatum und eine Seriennummer: Ändert jemand ein einziges Zeichen, wird alles abgelehnt. Große Bestellungen brauchen eine menschliche Freigabe, auch wenn man sie in viele kleine aufteilt. Mit eingebautem Benchmark gegen Prompt Injection: Ohne Schutz wurden 14 von 66 Angriffen wirklich ausgeführt, mit SealGate 0 von 66. Erlaubte Aufgaben klappten trotzdem in 47 von 48 Fällen.
+
+<a href="https://github.com/StefanRohringer/SealGate/blob/main/RESULTS.md">📊 Messergebnisse</a> · <a href="https://github.com/StefanRohringer/SealGate/blob/main/SECURITY.md">🔐 Sicherheitshinweise</a>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-555?style=flat-square" alt="Agentic AI"> <img src="https://img.shields.io/badge/MCP-555?style=flat-square" alt="MCP"> <img src="https://img.shields.io/badge/Prompt%20Injection-555?style=flat-square" alt="Prompt Injection"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Fail--Closed-555?style=flat-square" alt="Fail-Closed">
+
 #### [me-guard](https://github.com/StefanRohringer/me-guard)
 
 Lokales Vertrauens- und Integritätssystem für KI-Agenten-Skills: signiert, prüft und scannt Skills, bevor sie ausgeführt werden. 100 % offline und deterministisch.
