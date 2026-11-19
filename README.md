@@ -71,6 +71,8 @@ KI-Qualitätsprüfzelle für Spritzgussteile: Ein Muse-Spark-Agent steuert einen
 
 <img src="https://img.shields.io/badge/Agentic%20AI-555?style=flat-square" alt="Agentic AI"> <img src="https://img.shields.io/badge/Computer%20Vision-555?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/Qualit%C3%A4tspr%C3%BCfung-555?style=flat-square" alt="Qualitätsprüfung"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Meta%20Hackathon%202026-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Hackathon 2026">
 
+---
+
 ### 🦾 Robotik-Hardware
 
 #### [Touch-Sensing Fin-Ray Gripper](https://github.com/StefanRohringer/Touch-Sensing-Fin-Ray-Gripper)
@@ -83,6 +85,8 @@ KI-Qualitätsprüfzelle für Spritzgussteile: Ein Muse-Spark-Agent steuert einen
 Greiferfinger mit Tastsinn für den Seeed reBot DevArm: Jeder Finger trägt zwei weiche Fin-Ray-Lamellen aus TPU, in jeder sitzt ein kleiner Magnet, dahinter ein Magnetometer (MLX90393). Alle vier Lamellen melden Kontakt einzeln, so spürt der Roboter beim Schließen, dass er das Teil hält, und beim Ablegen, dass es aufsetzt. Mit Fingernagel-Variante für winzige SMD-Bauteile (0603/0402), Druckdateien, Maßzeichnungen, Anschlussplan, interaktiver 3D-Ansicht, Firmware für den Raspberry Pi Pico und Live-Monitor für den PC.
 
 <img src="https://img.shields.io/badge/3D--Druck-555?style=flat-square" alt="3D-Druck"> <img src="https://img.shields.io/badge/Taktile%20Sensorik-555?style=flat-square" alt="Taktile Sensorik"> <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython"> <img src="https://img.shields.io/badge/Open%20Hardware-555?style=flat-square" alt="Open Hardware">
+
+---
 
 ### 🤖 Lokale KI-Systeme
 
@@ -97,6 +101,8 @@ Quantized Local Superintelligence: selbst gehosteter KI-Assistent, der komplett 
 Deterministisches (12×7)+10-Wissensnetz aus technischen Dokumenten. Kein LLM, keine Cloud, läuft auf einem Raspberry Pi.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+
+---
 
 ### 🔒 Sicherheit für KI-Agenten
 
@@ -124,6 +130,8 @@ Sicherheits-Gateway für KI-Agenten nach dem Prinzip „Das Modell schlägt vor,
 Lokales Vertrauens- und Integritätssystem für KI-Agenten-Skills: signiert, prüft und scannt Skills, bevor sie ausgeführt werden. 100 % offline und deterministisch.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Offline-555?style=flat-square" alt="Offline">
+
+---
 
 ### 🧪 Experimente
 
